@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+// FORMATEO DE ESTLOS
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+// // Core
+
+// @import "styles/functions";
+
+// @import "styles/variables";
+
+// @import "styles/mixins";
+
+// // Custom components
+
+// @import "styles/alerts.scss";
+// @import "styles/badges.scss";
+// @import "styles/buttons.scss";
+// @import "styles/dropdown.scss";
+// @import "styles/footer.scss";
+// @import "styles/forms.scss";
+// @import "styles/images.scss";
+// @import "styles/modal.scss";
+// @import "styles/navbar.scss";
+// @import "styles/type.scss";
+// @import "styles/tables";
+// @import "styles/checkboxes-radio";
+// @import "styles/fixed-plugin";
+// @import "styles/sidebar-and-main-panel.scss";
+// @import "styles/misc.scss";
+// @import "styles/rtl.scss";
+// @import "styles/input-group.scss";
+
+
+// // Vendor / Plugins
+
+// @import "styles/vendor/plugin-perfect-scrollbar.scss";
+// @import "styles/vendor/plugin-react-notification-alert.scss";
+
+// // light mode
+
+// @import "styles/white-content.scss";
+
+// // Cards
+
+// @import 'styles/card';
+// @import "styles/cards/card-chart";
+// @import "styles/cards/card-map";
+// @import "styles/cards/card-user";
+// @import "styles/cards/card-task";
+// @import "styles/cards/card-plain";
